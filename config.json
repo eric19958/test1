@@ -1,0 +1,11 @@
+{
+   "telegram":{
+      "token":"6299602641:AAFWyyo-cp0biiTXbSYOFHwlbcbYnHHnsnc",
+      "mod": 0,
+      "сourier_channel": -1001922560426,
+      "pickup_channel": -1001168238690,
+      "warehouse_channel": -1001146969799,
+      "money_channel": -1001419298885,
+      "penalties_channel": -1001234847664
+   }
+}
